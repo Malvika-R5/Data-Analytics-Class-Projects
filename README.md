@@ -1,2 +1,2 @@
-# Titanic-Survival-Analysis
-Explored and analyzed the Titanic dataset to understand structure, data types, and key variables. Cleaned and transformed data, handling missing values and normalizing fields. Filtered and summarized to reveal survival patterns, highlighting higher survival among women and children.
+# Data Analysis Class Projects
+A collection of data analysis projects showcasing exploration, cleaning, transformation, and visualization of various datasets. Highlights include handling missing values, summarizing patterns, and deriving insights using Python, Pandas, and Matplotlib.
